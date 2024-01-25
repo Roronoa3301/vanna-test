@@ -14,3 +14,4 @@ docs/*.html
 notebooks/chroma.sqlite3
 dist
 .env
+assets
