@@ -13,3 +13,4 @@ docs/*.html
 .tox/
 notebooks/chroma.sqlite3
 dist
+.env
